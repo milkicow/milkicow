@@ -6,7 +6,7 @@ My name is Kozlov Aleksandr. I'm second year student of MIPT DREC.
 
 In this profile you can find my education projects.
 
-Here my CV.
+Here my [CV](https://github.com/milkicow/milkicow/blob/main/CV.pdf).
 
 ## Languages:
 
