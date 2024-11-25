@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=milkicow)
 
-My name is Kozlov Aleksandr. I'm second year student of MIPT DREC.
+My name is Kozlov Aleksandr. I'm a fourth year student of MIPT DREC.
 
 In this profile you can find my education projects.
 
